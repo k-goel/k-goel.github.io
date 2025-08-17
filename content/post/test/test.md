@@ -10,5 +10,5 @@ comments: true
 draft: false
 ---
 
-This is a test website. I just wanted to make sure everything is working.
+This is a test website. I just wanted to make sure everything is working
 ---
