@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: false
+draft: true
 ---
 
 This is a test website. I just wanted to make sure everything is working
